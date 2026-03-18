@@ -17,4 +17,4 @@ Explore our portfolio to see how we integrate hands-on innovation with real-worl
 ### 🌐 Get Involved
 Want to see our mission in action or find out how to support our programs?
 
-[Visit our official website to learn more!] (https://digitaleducationsafety.org/)
+[Visit our official website to learn more!](https://digitaleducationsafety.org/)
